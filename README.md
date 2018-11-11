@@ -1,5 +1,5 @@
 # PlantIt
-Prototype for MGMT300 Business Capstone done by [http://github.com/gjiayi]gjiayi.
+Prototype for MGMT300 Business Capstone done by [Jia Yi](http://github.com/gjiayi).
 
 References:
 https://www.w3schools.com/
