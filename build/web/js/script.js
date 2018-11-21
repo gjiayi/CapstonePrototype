@@ -1,3 +1,8 @@
+(adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-6128386599502423",
+    enable_page_level_ads: true
+});
+
 (function () {
     // var cx = '013847816764164610777:gqjz22fhera'; // henry
     var cx = '017879021595272184798:_cfyhvhsqp4'; // jiayi

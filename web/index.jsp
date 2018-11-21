@@ -9,6 +9,7 @@
         
         <script src="js/jquery.js"></script>
         <script src="js/script.js"></script>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     </head>
     <body class="image-bg">
         <div class="dropdown">
